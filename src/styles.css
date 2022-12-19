@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  /* background: #596775; */
+  margin: 0;
+  padding: 10px;
+  height: 100vh;
+  background: linear-gradient(#b9d6f5, #a7c0db);
+}
+
+/*
+
+  background: linear-gradient(#58FCEC, #277069);
+light
+#58FCEC
+#54F0E0
+#4BD6C8
+#41BCB0
+#277069
+
+dark
+bg: #596775
+grad:
+#8A9FB5
+#A7C0DB
+
+border:
+#B9D6F5
+
+#B9D6F5
+*/
